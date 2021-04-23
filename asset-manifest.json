@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.333018bb.chunk.js": "/static/js/0.333018bb.chunk.js",
+    "main.css": "/static/css/main.778f969c.chunk.css",
+    "main.js": "/static/js/main.bffa81b6.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.80e4d471.js",
+    "static/css/3.e418e7df.chunk.css": "/static/css/3.e418e7df.chunk.css",
+    "static/js/3.dc8702ee.chunk.js": "/static/js/3.dc8702ee.chunk.js",
+    "static/js/4.0647590f.chunk.js": "/static/js/4.0647590f.chunk.js",
+    "static/js/5.ffd01ff5.chunk.js": "/static/js/5.ffd01ff5.chunk.js",
+    "static/js/6.784217c6.chunk.js": "/static/js/6.784217c6.chunk.js",
+    "static/js/7.5128afef.chunk.js": "/static/js/7.5128afef.chunk.js",
+    "static/js/8.b37a6134.chunk.js": "/static/js/8.b37a6134.chunk.js",
+    "static/js/9.6dc191f1.chunk.js": "/static/js/9.6dc191f1.chunk.js",
+    "static/js/10.f8368048.chunk.js": "/static/js/10.f8368048.chunk.js",
+    "static/js/11.1c540c7a.chunk.js": "/static/js/11.1c540c7a.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.52863157a0da9309b450fa6b310deda4.js": "/precache-manifest.52863157a0da9309b450fa6b310deda4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/3.dc8702ee.chunk.js.LICENSE.txt": "/static/js/3.dc8702ee.chunk.js.LICENSE.txt",
+    "static/js/5.ffd01ff5.chunk.js.LICENSE.txt": "/static/js/5.ffd01ff5.chunk.js.LICENSE.txt",
+    "static/js/6.784217c6.chunk.js.LICENSE.txt": "/static/js/6.784217c6.chunk.js.LICENSE.txt",
+    "static/js/7.5128afef.chunk.js.LICENSE.txt": "/static/js/7.5128afef.chunk.js.LICENSE.txt",
+    "static/js/8.b37a6134.chunk.js.LICENSE.txt": "/static/js/8.b37a6134.chunk.js.LICENSE.txt",
+    "static/media/chef.png": "/static/media/chef.0f496876.png",
+    "static/media/dai.png": "/static/media/dai.6a47d162.png",
+    "static/media/metamask-fox.svg": "/static/media/metamask-fox.c06f3a3e.svg",
+    "static/media/usdc.svg": "/static/media/usdc.ce664acf.svg",
+    "static/media/usdt.svg": "/static/media/usdt.f62d165f.svg",
+    "static/media/wbtc.svg": "/static/media/wbtc.f524516c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80e4d471.js",
+    "static/css/3.e418e7df.chunk.css",
+    "static/js/3.dc8702ee.chunk.js",
+    "static/css/main.778f969c.chunk.css",
+    "static/js/main.bffa81b6.chunk.js"
+  ]
+}
